@@ -1,7 +1,7 @@
 <!--English-->
 <h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hi!, I'm Vicente.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="justify">I'm a first-year Web App Development student in Torrevieja, Alicante. I'm a social person who loves to take up new challenges and learn new skills through enthusiasm!</h4><br>
+<h4 align="justify">I'm a first-year Web App Development student in Torrevieja, Alicante. I'm a social person who loves to take up new challenges and learn new skills with enthusiasm!</h4><br>
 <hr>
 <h2>🌐 Contact Me</h2>
 <a href = "mailto:vic.m.profesional@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@VicEscricheM"  /></a>
