@@ -9,15 +9,17 @@
 
 ## 🛠️ My Skills
 
-### 📖 Programming languages
-[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
+### 📖 Programming/Markup languages
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,markdown)](https://skillicons.dev)
 
-### 💻 Control/management systems
+### 💻 Version Control/Management systems
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
 <hr/>
 
 ### 🗒️ Complementary studies
-<p>· Lvl.2 Certificate in Computer Systems IFCT0209.<br>· Lvl.3 Certificate in IT Security IFCTO109.</p>
+
+* Lvl.2 Certificate in Computer Systems IFCT0209.
+* Lvl.3 Certificate in IT Security IFCTO109.
 <hr/>
 
 <!--Español-->
@@ -31,13 +33,14 @@
 
 ## 🛠️ Mis habilidades
 
-### 📖 Lenguajes de programación
-[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
+### 📖 Lenguajes de programación/marcado
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,markdown)](https://skillicons.dev)
 
 ### 💻 Sistemas de control de versiones y SGBD
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
 <hr/>
 
 ### 🗒️ Estudios complementarios
-<p>· Certificado de profesionalidad nivel 2 IFCT0209 en Sistemas Microinformáticos.<br>· Certificado de profesionalidad nivel 3 IFCT0109 en Seguridad Informática.</p>
+* Certificado de profesionalidad nivel 2 IFCT0209 en Sistemas Microinformáticos.
+* Certificado de profesionalidad nivel 3 IFCT0109 en Seguridad Informática.
 <hr/>
